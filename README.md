@@ -1,5 +1,5 @@
 # Hello, I'm Pedro Bonfilio 👋
-I'm a software developer based in MG, Brazil. I'm passionate about programming and I enjoy practicing gaming and watch anime in my free time.
+I'm a software developer based in MG, Brazil. I'm passionate about programming and I enjoy gaming and watch anime in my free time.
 
 ## 🔭 My GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedroblimaa)](https://github.com/pedroblimaa)
